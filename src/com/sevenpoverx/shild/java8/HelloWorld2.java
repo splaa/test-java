@@ -1,7 +1,7 @@
 package com.sevenpoverx.shild.java8;
 
-public class HelloWorld1 {
+public class HelloWorld2 {
 	public static void main(String[] args) {
-		System.out.println("HelloWorld1.main");
+		System.out.println("HelloWorld2.main");
 	}
 }
